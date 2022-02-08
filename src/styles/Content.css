@@ -1,0 +1,13 @@
+.content-main {
+    display: flex;
+    flex-direction: row;
+}
+
+.content-main-navegation {
+    width: 30%;
+}
+
+.content-main-section {
+    width: 70%;
+    background-color: orchid;
+}
